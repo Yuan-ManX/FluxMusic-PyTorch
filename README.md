@@ -1,7 +1,7 @@
 # FluxMusic PyTorch
 
 <p align="center">
-  <img src="FluxMusic.png" alt="FluxMusic" style="display:block; margin:auto; width:550px;" />
+  <img src="FluxMusic.png" alt="FluxMusic" style="display:block; margin:auto; width:450px;" />
 </p>
 
 PyTorch implementation of FluxMusic.
